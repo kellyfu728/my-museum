@@ -1,7 +1,8 @@
 # 🏛️ My Museum
 
 > **Things I don't want to forget.**
-> [**中文 README**](README_zh.md)
+
+[**中文 README**](README_zh.md)
 
 My Museum is a small personal archive for collecting the things that make me stop and think:
 
