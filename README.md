@@ -138,3 +138,9 @@ Character dynamics   █████████
 Atmosphere            ███████
 Plot                   █████
 Worldbuilding          ███
+
+---
+
+## 📌 Licence
+
+All Rights Reserved
