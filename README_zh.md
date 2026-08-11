@@ -2,7 +2,7 @@
 
 > **那些我不想忘记的东西。**
 
-[**English README**](README.md)
+🌐 语言: 简体中文 | [**English README**](README.md)
 
 My Museum 是一个属于自己的灵感收藏馆。
 
