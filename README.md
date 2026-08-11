@@ -139,6 +139,8 @@ Atmosphere            ███████
 Plot                   █████
 Worldbuilding          ███
 
+```
+
 ---
 
 ## 📌 Licence
