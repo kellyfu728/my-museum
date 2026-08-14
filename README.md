@@ -4,6 +4,8 @@
 
 🌐 Language: English | [**中文**](README_zh.md)
 
+🔗 **Live museum:** [kellyfu728.github.io/my-museum](https://kellyfu728.github.io/my-museum/)
+
 My Museum is a small personal archive for collecting the things that make me stop and think:
 
 a beautiful sentence, an interesting piece of dialogue, a plot idea, a character dynamic, a writing technique, a scene, or simply an idea that I don't want to lose.
@@ -86,18 +88,21 @@ Keep your own ideas before they disappear.
 ## ✦ Features
 
 - 🏛️ Personal exhibit archive
-- ✍️ Create and edit exhibits
-- 🏷️ Tags and categories
-- 🔎 Search and filtering
-- ✦ Random **Surprise Me** exhibit
-- 📊 Personal taste overview
+- ✍️ Create, edit, delete, and favorite exhibits
+- 🏷️ Bilingual predefined tags with unchanged custom tags
+- 🔎 Combined search, type, tag, and favorite filters
+- ↕️ Newest, oldest, and random sorting
+- ✦ **Surprise Me** from the current browsing selection
+- 📖 Quiet, focused exhibit reading mode
+- 📊 Data-driven **My Taste** overview and browsing shortcuts
 - 🌐 English / 简体中文 interface
+- 🧭 A bilingual, museum-style first-visit guide
 - 💾 Local browser storage
+- 📤 Safe JSON backup, export, and import
 - 📱 Responsive design
 - 🔒 No account required
-- 📤 Data export / import
 
-> Some features are still being developed.
+All exhibit data stays in the browser unless it is deliberately exported as a JSON backup.
 
 ---
 
